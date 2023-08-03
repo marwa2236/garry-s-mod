@@ -42,14 +42,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"garry s mod 1","desc":"description1 ser","photo":"https://iili.io/HZbym79.webp"},
+  {"title":"garry s mod 2","desc":"description2 ser","photo":"https://iili.io/HZmTnXR.webp"},
+  {"title":"garry s mod 3","desc":"description3 ser","photo":"https://iili.io/HZmTI1I.webp"},
+  {"title":"garry s mod 4","desc":"description4 ser","photo":"https://iili.io/HZmTXku.webp"},
+  {"title":"garry s mod 5","desc":"description5 ser","photo":"https://iili.io/HZm9B71.webp"},
+  {"title":"garry s mod 6","desc":"description6 ser","photo":"https://iili.io/HZmTb2t.webp"},
+  {"title":"garry s mod 7","desc":"description7 ser","photo":"https://iili.io/HZmudQ4.webp"},
+  {"title":"garry s mod 8","desc":"description8 ser","photo":"https://iili.io/HZmuK4S.webp"}
    ]
  
 }
